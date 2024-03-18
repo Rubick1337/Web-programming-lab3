@@ -329,3 +329,195 @@ body {
     height: 494px;
     padding-left: 12px;
   }
+  .Pelican {
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+    height: 570px;
+  }
+  .Pelican-container {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 46px;
+  }
+  .text-pelican {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 425px;
+    height: 446px;
+  }
+  .Alada {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: center;
+    justify-content: center;
+    height: 599px;
+  }
+  .Alada-container {
+    align-items: center;
+    display: flex;
+    gap: 70px;
+  }
+  .text-alada {
+    height: 509px;
+    width: 392px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  .Alba {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: center;
+    justify-content: center;
+    height: 596px;
+  }
+  .Alba-container {
+    display: flex;
+    gap: 34px;
+    align-items: center;
+  }
+  .Batea {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: center;
+    justify-content: center;
+    height: 591px;
+  }
+  .batea-title h2 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    margin-block: 0;
+  }
+  .title-alba h2 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    margin-block: 0;
+  }
+  .Batea-container {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+  }
+  .text-batea {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 393.609px;
+    height: 466.125px;
+  }
+  .img-company {
+    margin-top: 56px;
+    margin-left: 3px;
+  }
+  .shop-now a {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  .new-favorite h3 {
+    color: #bc1414;
+    text-align: right;
+    font-family: Cardo;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 29.714px;
+    margin-block: 0;
+  }
+  .config-store h3 {
+    color: #54595f;
+    font-family: Cardo;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.2px;
+  }
+  .pelican-title h2 {
+    font-size: 29px;
+  }
+  .pelican-description {
+    margin-top: 4px;
+  }
+  .price-pelican {
+    margin-top: 20px;
+  }
+  .write-pelican {
+    width: 425px;
+    margin-top: 22px;
+  }
+  .config-pelican {
+    margin-top: 9px;
+  }
+  .shop-pelican {
+    margin-top: 98px;
+  }
+  .new-favorite {
+    margin-top: 7px;
+  }
+  .write-alada {
+    margin-top: 45px;
+  }
+  .title-alada {
+    margin-top: 21px;
+  }
+  .price-alada {
+    margin-top: 21px;
+  }
+  
+  .config-alada {
+    margin-top: 12px;
+    width: 120px;
+  }
+  .shop-alada {
+    margin-top: 33px;
+  }
+  .description-alba {
+    margin-top: 3px;
+  }
+  .price-alba {
+    margin-top: 22px;
+  }
+  .write-alba {
+    margin-top: 19px;
+  }
+  .config-alba {
+    margin-top: 27px;
+  }
+  .shop-alba {
+    margin-top: 48px;
+  }
+  
+  .description-batea {
+    margin-top: 4px;
+    font-size: 17px;
+  }
+  .write-batea {
+    margin-top: 45px;
+  }
+  .config-batea {
+    margin-top: 9px;
+  }
+  .batea-shop {
+    margin-top: 33px;
+  }
+  .price-batea {
+    margin-top: 21px;
+  }
