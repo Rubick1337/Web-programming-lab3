@@ -122,3 +122,60 @@ body {
     font-weight: 400;
     line-height: normal;
   }
+  .information {
+    display: grid;
+    align-items: center;
+    height: 155px;
+  }
+  .information-container {
+    display: flex;
+    margin-left: 30px;
+  }
+  .information-container h3 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23.8px;
+    letter-spacing: 0.2px;
+  }
+  .shipping {
+    margin-left: 11.41px;
+    width: 238px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    gap: 21.82px;
+  }
+  .design {
+    margin-left: 18.95px;
+    width: 279px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    gap: 9.26px;
+  }
+  .approach {
+    margin-left: 10.95px;
+    width: 247px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    gap: 16.26px;
+  }
+  .crafted {
+    width: 291px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    gap: 36.26px;
+  }
+  .stars {
+    margin-left: 24px;
+    width: 290px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    gap: 36.26px;
+  }
