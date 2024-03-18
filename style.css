@@ -242,3 +242,90 @@ body {
     font-weight: 400;
     line-height: 38.6px;
   }
+  .Cloe {
+    height: 687px;
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: center;
+    justify-content: center;
+  }
+  .Cloe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+  }
+  .title-product h2 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    margin-block: 0;
+  }
+  .description h3 {
+    color: #000;
+    font-family: Cardo;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 37.143px;
+    margin-block: 0;
+  }
+  .price h3 {
+    color: #000;
+    font-family: Cardo, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.857px;
+    margin-block: 0;
+  }
+  .price-cloe {
+    margin-top: 23px;
+  }
+  .cloe-shop {
+    margin-top: 28px;
+  }
+  .description-cloe {
+    text-align: end;
+    margin-top: 2px;
+  }
+  .write-cloe {
+    margin-top: 13px;
+    width: 392px;
+    height: 132px;
+  }
+  .text-product h3 {
+    color: #525252;
+    font-family: Cardo;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.6px;
+    margin-block: 0;
+  }
+  
+  .left-text-product {
+    text-align: right;
+  }
+  .shop-now a {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  .text-cloe {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    height: 494px;
+    width: 423px;
+    height: 494px;
+    padding-left: 12px;
+  }
