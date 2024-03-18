@@ -861,3 +861,47 @@ body {
   .trustpilot-img {
     margin-left: 14px;
   }
+  .payment {
+    width: 1140px;
+    height: 104.094px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .payment-img {
+    display: flex;
+    gap: 9px;
+    margin-left: 64px;
+    width: 359.984px;
+    height: 28.109px;
+  }
+  .tm-company {
+    margin-left: 9px;
+    width: 199px;
+    height: 23px;
+  }
+  .text-payment {
+    margin-right: -10px;
+    width: 256px;
+    height: 22px;
+  }
+  .text-payment h3 {
+    color: #000;
+    text-align: center;
+    font-family: Cardo;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.286px;
+    margin-block: 0;
+  }
+  .tm-company h3 {
+    color: #000;
+    text-align: center;
+    font-family: Cardo;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.286px;
+    margin-block: 0;
+  }
