@@ -726,3 +726,31 @@ body {
     line-height: 15px;
     text-decoration-line: underline;
   }
+  .who-talking {
+    height: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container-who-talking {
+    display: flex;
+    height: 209.531px;
+    align-items: center;
+  }
+  .container-x2-who {
+    display: flex;
+    height: 189.53px;
+    flex-direction: column;
+    gap: 40px;
+  }
+  .text-who-talking h3 {
+    color: #454545;
+    text-align: center;
+    font-family: Cardo;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.3px;
+    margin-block: 0;
+  }
