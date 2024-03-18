@@ -621,3 +621,45 @@ body {
     justify-content: center;
     align-items: center;
   }
+  .text-team-carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 312px;
+    flex-direction: column;
+  }
+  .text-team h3 {
+    color: #020202;
+    text-align: center;
+    font-family: Cardo;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .author-text h3 {
+    color: #000;
+    text-align: center;
+    font-family: Cardo;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+  }
+  .container-carousel-text-team {
+    height: 168px;
+    display: flex;
+    flex-direction: column;
+  }
+  .pagination-team {
+    padding-left: 73px;
+    margin-top: 22px;
+  }
+  .container-text-team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 11px;
+    gap: 18px;
+  }
