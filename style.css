@@ -320,6 +320,11 @@ main {
   font-weight: 400;
   line-height: 22px;
 }
+.shop-now a:hover
+{
+  cursor: pointer;
+  color: #bb945f;
+}
 .text-cloe {
   display: flex;
   flex-direction: column;
@@ -731,6 +736,11 @@ main {
   line-height: 15px;
   text-decoration-line: underline;
 }
+.learn-more a:hover 
+{
+  cursor: pointer;
+  color: #bb945f;
+}
 .who-talking {
   height: 340px;
   display: flex;
@@ -910,3 +920,4 @@ footer {
   line-height: 30.286px;
   margin-block: 0;
 }
+
